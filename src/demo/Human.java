@@ -1,6 +1,7 @@
 package demo;
 
-public interface Human {
+public class Human {
+
 
 
 }
