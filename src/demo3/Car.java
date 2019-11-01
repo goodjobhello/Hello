@@ -5,7 +5,7 @@ import java.util.Arrays;
 public class Car {
     public static void main(String[] args) {
 
-        int[] a = {11, 29, 4, 3};
+        int[] a = {23, 22, 10, 33, 2, 9, 20, 5, 77, 22, 3, 99, 55, 33, 24};
         quickSort(a, 0, a.length - 1);
         System.out.println(Arrays.toString(a));
     }
