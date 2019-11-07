@@ -1,14 +1,12 @@
 package demo3;
 
-import java.util.Arrays;
-
 public class Xier {
 
     public static void main(String[] args) {
-        int[] a = {22,24,11,22,8,33,44,5,3,22,33,2,5,66};
-        //xier(a);
-        insertSort(a);
-        System.out.println(Arrays.toString(a));
+//        int[] a = {22,24,11,22,8,33,44,5,3,22,33,2,5,66};
+//        //xier(a);
+//        insertSort(a);
+//        System.out.println(Arrays.toString(a));
     }
 
 
